@@ -28,6 +28,6 @@ Thanks to [Kyrus Tech] (<http://www.kyrus-tech.com/>) for an amazing cybersecuri
 Questions? Email <geracam@mit.edu>. 
 
 
-> It used to be that we imagined that our mobile phones would be for us to talk to each other. Now, our mobile phones are there to talk to us. -Sherry Turkle
+> "It's 5.50 a.m.... Do you know where your stack pointer is ?"
 
 ![noob](http://www.quickmeme.com/img/ce/ce20dfecd3053d162202e3d27fc36990dcffa53ede20ddc334d1dc540e728ad8.jpg)
